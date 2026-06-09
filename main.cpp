@@ -66,6 +66,11 @@ public:
         }
         return sum;
     }
+
+    DynamicIntArray(const DynamicIntArray& other)
+    {
+        d
+    }
 };
 
 
